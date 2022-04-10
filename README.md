@@ -1,17 +1,15 @@
-[![Nitish Kumar ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Nitish%20Kumar%20)](https://www.linkedin.com/in/nitish-kumar-50a564205/)
+[![Prashant Tiwari ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Prashant%20Tiwari%20)](https://www.linkedin.com/in/prashant-tiwari-765444216//)
 
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitish Kumar</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Prashant Tiwari</h1>
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nitish8800](https://github.com/Nitish8800)
+- 👨‍💻 All of my projects are available at [https://github.com/Prashant-KT](https://github.com/Prashant-KT)
 
-- 📝 I write articles on [https://medium.com/@nitishfea120784](https://medium.com/@nitishfea120784)
+- 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS  , CLI-Bash.**
 
-- 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , CLI-Bash.**
-
-- 📫 How to reach me LinkedIn **https://www.linkedin.com/in/nitish-kumar-50a564205/**
+- 📫 How to reach me LinkedIn **https://www.linkedin.com/in/prashant-tiwari-765444216/**
 
 <hr />
 
@@ -133,16 +131,16 @@
 <hr>
 <h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nitish-kumar-50a564205/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/prashant-tiwari-765444216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.instagram.com/_niku_7827/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 <hr />
 <h3>  My Github Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
-<a href="https://github.com/Nitish8800/github-readme-activity-graph"><img alt="Nitish-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nitish8800&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nitish8800&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<a href="https://github.com/Prashant-KT/github-readme-activity-graph"><img alt="Prashant-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prashant-KT&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-KT&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nitish8800&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashant-KT&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish8800&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
