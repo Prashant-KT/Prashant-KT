@@ -132,9 +132,7 @@
 <h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/prashant-tiwari-765444216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Nitishk60487582"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/_niku_7827/"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+  </p>
 <hr />
 <h3>  My Github Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
 <a href="https://github.com/Prashant-KT/github-readme-activity-graph"><img alt="Prashant-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prashant-KT&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
@@ -142,7 +140,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashant-KT&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nitish8800&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-KT&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
 <hr />
 
