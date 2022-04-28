@@ -115,13 +115,15 @@
   <a href="https://www.linkedin.com/in/prashant-tiwari-765444216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 <hr />
-<a href="https://github.com/Prashant-KT/github-readme-activity-graph"><img alt="Prashant-Kumar-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prashant-KT&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-KT&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashant-KT&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" /></p>
+<div style="display: flex;" >
+<img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-KT&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-KT&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Nitish Kumar" /></p>
 
+
+<img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-KT&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Prashant Tiwari" />
+
+  </div>
 <hr />
 
 
