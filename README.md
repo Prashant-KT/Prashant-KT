@@ -32,7 +32,7 @@
 
 <span>𝗖𝗦𝗦𝟯</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+<img height="44px" src="https://cdn.svgporn.com/logos/css-3.svg">
 
 </td>
 
