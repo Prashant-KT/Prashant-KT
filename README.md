@@ -1,7 +1,7 @@
 
 
 <h3 align="center","text-align":"center"> <h1> Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Prashant Tiwari </h1>
-<p>A Frontend Web Developer with a specialization in React,Redux, JavaScript stack. I'm passionate and capable of applying programming skills </br> to build exciting and creative project.</p>
+<p>A Frontend Web Developer with a specialization in React,Redux, JavaScript stack. I'm passionate and capable of applying programming skills > to build exciting and creative project.</p>
 
 
 </h3>
