@@ -1,8 +1,7 @@
-[![Prashant Tiwari ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Prashant%20Tiwari%20)](https://www.linkedin.com/in/prashant-tiwari-765444216//)
 
-<h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
-<h3 align="center"> <h1> Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Prashant Tiwari </h1>
-<p>A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills </br> to build exciting and creative project.</p>
+
+<h3 align="center","text-align":"center"> <h1> Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Prashant Tiwari </h1>
+<p>A Frontend Web Developer with a specialization in React,Redux, JavaScript stack. I'm passionate and capable of applying programming skills </br> to build exciting and creative project.</p>
 
 
 </h3>
