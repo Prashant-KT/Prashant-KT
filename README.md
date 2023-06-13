@@ -6,7 +6,7 @@
 
 </h3>
 
-- 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
+- 🌱 I’m currently working as **Frontend Developer At Wunderman Thompson Studios Delhi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prashant-KT](https://github.com/Prashant-KT)
 
